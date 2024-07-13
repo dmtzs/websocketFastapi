@@ -1,0 +1,2 @@
+void printWifiStatus();
+void printWifiStatusGraphics();
